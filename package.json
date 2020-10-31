@@ -11,6 +11,7 @@
     "mongoose": "^5.10.11",
     "next": "10.0.0",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-horizontal-timeline": "^1.5.3"
   }
 }
